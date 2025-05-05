@@ -1,4 +1,4 @@
-package controller;
+package id.ac.ukdw.www.rpblo.javafx_rplbo;
 
 import id.ac.ukdw.www.rpblo.javafx_rplbo.Apps;
 import javafx.fxml.FXML;

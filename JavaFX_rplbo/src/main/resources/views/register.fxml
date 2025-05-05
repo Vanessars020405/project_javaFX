@@ -5,7 +5,7 @@
 <?import javafx.geometry.*?>
 
 <AnchorPane xmlns:fx="http://javafx.com/fxml"
-            fx:controller="controller.RegisterController" style="-fx-background-color: #B0A695;">
+            fx:controller="id.ac.ukdw.www.rpblo.javafx_rplbo.RegisterController" style="-fx-background-color: #B0A695;">
 
     <children>
         <VBox spacing="15.0" alignment="CENTER" AnchorPane.topAnchor="30.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0">
